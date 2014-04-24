@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backtest" />
+        <option name="modules">
+          <set>
+            <option value="C:\Users\attila\IdeaProjects\sfx2\backtest" />
+            <option value="C:\Users\attila\IdeaProjects\sfx2\backtest\project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="C:\Users\attila\IdeaProjects\sfx2\backtest" />
+        <option name="useAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
+
